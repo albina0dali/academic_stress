@@ -19,8 +19,8 @@ Imbalanced-learn / SMOTE (Handling class imbalance)
 
 ## 🔬 Methodology
 
-**Data Preprocessing** — Encoding categorical variables, engineering interaction features (Peer × Competition, Parental × Competition, Total Pressure)
-**EDA** — Distribution analysis, correlation heatmaps, stress breakdowns by environment, habits, and coping strategy
-**Class Balancing** — SMOTE applied to training set to equalize Low / Medium / High stress classes
-**Modeling** — Five classifiers trained and compared: Extra Trees, Gradient Boosting, Random Forest, SVM, Voting Ensemble
-**Evaluation** — 5-fold cross-validation + held-out test set scored on Accuracy, F1, Precision, and Recall
+1. **Data Preprocessing** — Encoding categorical variables, engineering interaction features (Peer × Competition, Parental × Competition, Total Pressure)
+2. **EDA** — Distribution analysis, correlation heatmaps, stress breakdowns by environment, habits, and coping strategy
+3. **Class Balancing** — SMOTE applied to training set to equalize Low / Medium / High stress classes
+4. **Modeling** — Five classifiers trained and compared: Extra Trees, Gradient Boosting, Random Forest, SVM, Voting Ensemble
+5. **Evaluation** — 5-fold cross-validation + held-out test set scored on Accuracy, F1, Precision, and Recall
