@@ -11,15 +11,11 @@ Extra Trees classifier achieves 96.3% accuracy — the best among all tested mod
 
 ## 🛠️ Technologies Used
 
-Python (Core language)
-
-Pandas & NumPy (Data manipulation and feature engineering)
-
-Matplotlib & Seaborn (Data visualization)
-
-Scikit-learn (Machine learning modeling and evaluation)
-
-Imbalanced-learn / SMOTE (Handling class imbalance)
+- Python (Core language)
+- Pandas & NumPy (Data manipulation and feature engineering)
+- Matplotlib & Seaborn (Data visualization)
+- Scikit-learn (Machine learning modeling and evaluation)
+- Imbalanced-learn / SMOTE (Handling class imbalance)
  
 ## 🔬 Methodology
 
