@@ -16,7 +16,7 @@ Pandas & NumPy (Data manipulation and feature engineering)
 Matplotlib & Seaborn (Data visualization)
 Scikit-learn (Machine learning modeling and evaluation)
 Imbalanced-learn / SMOTE (Handling class imbalance)
-
+ 
 ## 🔬 Methodology
 
 1. **Data Preprocessing** — Encoding categorical variables, engineering interaction features (Peer × Competition, Parental × Competition, Total Pressure)
