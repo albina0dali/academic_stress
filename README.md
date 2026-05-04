@@ -1,12 +1,5 @@
 # Academic Stress Classification — Explainable ML Framework
 
-> **An Explainable Machine Learning Framework for Academic Stress Classification Among University Students: A Comparative Multi-Dataset Study with Ablation Analysis and Statistical Significance Testing**
->
-> Nazyrova A., Omarbekova A., Bekmanova G., Lamasheva Z., Gibadullina A., Assem A.
-> *L.N. Gumilyov Eurasian National University, Astana, Kazakhstan*
-
----
-
 ## Overview
 
 This repository contains the complete source code for a comparative machine learning study on academic stress classification. The framework integrates:
